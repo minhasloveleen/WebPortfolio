@@ -211,7 +211,57 @@ color:#fe4d01;
 .about p{text-align:justify;
 font-size:20px;
 }
+@media only screen and (max-width: 400px) {
+	#laptop{
+	display:none; 
+  }
+  .heading{
+	width:70%;
+	  font-size:16px;
+  }
+  #mobile{
+	display:block; 
+  }
 
+  .main{
+	height:450px;
+	padding-top:5px;
+  }
+  .submain{
+	width:100%;
+  }
+  .main img{
+	margin-left:40%;
+  }
+  .submain h1{
+	font-size:230%;
+  }
+  #im{
+	width:50%;
+	height:50%;
+  }
+  #projectdisplay{
+	width:100%;
+	}
+
+	.sectionb{
+	width:100%;
+	}
+	.m{
+	  display:block;
+  }
+  .l{
+	  display:none;
+  }
+  .address{
+	width:90%;
+	font-size:20px;
+  }
+  .contactsection{ 
+	width:90%;
+	margin-bottom:10px;
+	}
+}
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
   #laptop{

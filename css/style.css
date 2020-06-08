@@ -393,6 +393,10 @@ padding-top:5px;
 	  width:25%;
 	  height:80%;
   }
+.main img {
+	margin-top:25px;
+    margin-left: 0;
+}
   .m{
 	  display:none;
   }

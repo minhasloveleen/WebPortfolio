@@ -217,7 +217,8 @@ font-size:20px;
   }
   .heading{
 	width:70%;
-	  font-size:32px;
+	  padding-top:20px;
+	  font-size:36px;
   }
   #mobile{
 	display:block; 
@@ -269,6 +270,8 @@ font-size:20px;
   }
   .heading{
 	width:75%;
+	  padding-top:15px;
+	  font-size:48px;
   }
   #mobile{
 	display:block; 
@@ -322,6 +325,8 @@ font-size:20px;
   }
   .heading{
 	  width:60%;
+	  padding-top:15px;
+	  font-size:48px;
   }
   #mobile{
 	  display:block;
@@ -375,7 +380,8 @@ padding-top:5px;
   
   .heading{
 	  width:40%;
-	  
+	  padding-top:15px;
+	  font-size:48px;
   }
   #mobile {
 	  display:none;

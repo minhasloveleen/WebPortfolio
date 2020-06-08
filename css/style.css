@@ -264,7 +264,10 @@ font-size:20px;
 	}
 }
 /* Extra small devices (phones, 600px and down) */
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 400px) {
+	body{
+		background-color:yellow;
+	}
   #laptop{
 	display:none; 
   }
@@ -319,7 +322,9 @@ font-size:20px;
 
 /* Medium devices (landscape tablets, 768px and up   portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
-	
+	body{
+		background-color:red;
+	}
   #laptop{
 	 display:none; 
   }
@@ -340,7 +345,7 @@ padding-top:5px;
   }
   .main img{
 	  margin-top:25px;
-	 
+	  margin-left:0px;
   }
   .submain h1{
 	font-size:300%;
